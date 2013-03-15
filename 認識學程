@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title> 國立政治大學數位內容與科技學位學程 - 招生資訊 </title>
+    <style>
+       
+       
+       ul li {border: 1px solid #E5E5E5; 
+              display: inline;
+          }   
+          
+       a { text-decoration: none;  
+           color: black;
+                 
+           }
+       
+       li a {
+           clip:  height;}
+
+       li a:hover {
+        background-color: #FFFFFF;
+        color: #339999;
+        border: 1px solid #33CCCC;  
+      }    
+           
+  
+      #nav1 {
+        width:
+        height:10px
+        background-color:red; 
+        margin-left:100px;
+        font-size:20px;
+       
+       }
+        
+    span {
+        font-size: 30px;
+        color: #FF6600;
+        }
+
+    #yes {
+        color: black;
+        font-size: 20px;
+        
+        }
+        
+    header {
+        
+        margin-left: 23px;
+        
+        }    
+
+    header > div{ 
+        
+        display: inline-block;}
+
+    #hright {
+      margin-left:443px
+      
+      }
+  
+    footer {
+        
+        
+        }
+    
+    #fcontainer {
+         border-radius: 15px;
+         border: 1px solid #E5E5E5;
+         margin-left:25px;
+         width:900px;
+         height:130px;
+         margin-top: 40px;
+         padding-bottom:10px;
+         }
+        
+        
+    footer div div { 
+        display: inline-block;
+        font-size:12px;
+        color:#757575;
+        }
+        
+     #contact {
+       
+        margin-left: 20px;
+        
+        }
+        
+     #fimg {
+          
+         margin-top: 20px;
+         margin-left:30px;
+         }
+        
+    
+    </style>
+  </head>
+ 
+ 
+
+  <body>
+    <header>
+      <div id="hleft">
+        <p><span id="yes">國立政治大學</span> <br> <span>數位內容與科技學位學程</span> </p>
+      </div>
+      <div id ="hright">
+        <img src= "http://farm9.staticflickr.com/8109/8531440974_2da476158e_b.jpg"/>
+      </div>
+
+    </header>
+
+    <nav>
+      <div id= "nav1">
+       <a href="http://dct.cs.nccu.edu.tw/index.php">首頁</a> |
+       <a href="http://dct.cs.nccu.edu.tw/about.php">認識學程</a> |
+       <a href="http://dct.cs.nccu.edu.tw/members_faculty.php">成員</a> |
+       <a href="http://dct.cs.nccu.edu.tw/courses_1.php">課程</a> |
+       <a href="http://dct.cs.nccu.edu.tw/admission.php">招生訊息</a> |
+       <a href="http://dct.cs.nccu.edu.tw/forms.php">法規與表格</a> |
+       <a href="http://dct.cs.nccu.edu.tw/invitiation_photo.php">活動照片</a> |
+       <a href="http://www.dct.nccu.edu.tw/">碩士學位學程</a> |
+       <a href="http://dct.cs.nccu.edu.tw/resource.php">數位資源</a> |
+      </div>
+    </nav> 
+
+    <section>
+      <div id= "nav2">
+        <ul>
+          <li><a href="http://dct.cs.nccu.edu.tw/admission.php">招生辦法</a></li>
+          <li><a href="http://dct.cs.nccu.edu.tw/admission_video.php">招生短片</a></li>
+          <li><a href="http://dct.cs.nccu.edu.tw/admission_seminar.php">招生說明會簡報</a></li>
+          <li><a href="http://dct.cs.nccu.edu.tw/admission_sharing_0.php">學姊經驗分享</a></li>
+          <li><a href="http://dct.cs.nccu.edu.tw/admission_sharing_1.php">學長經驗分享</a></li>
+          <li><a href="http://dct.cs.nccu.edu.tw/admission_faq.php">學長姐作品</a></li>
+          <li><a href="http://dct.cs.nccu.edu.tw/admission_faq.php">常見問題FAQ</a></li>
+          <li><a href="http://dct.cs.nccu.edu.tw/files/reference_material.pdf">招生說明會參考資料</a></li>
+          <li><a href="http://dct.cs.nccu.edu.tw/files/oral2012.pdf">口試名單</a></li>
+        </ul>
+      </div>
+      <article>
+        
+      </article>
+    </section> 
+  
+
+
+
+
+
+
+  </body>
+
+    <footer>
+    
+       <div id = "fcontainer">  
+         <div id="fimg">
+            <img src= "http://farm9.staticflickr.com/8099/8529781571_73529b536b_b.jpg"/>
+          </div>  
+
+         <div id= "contact">
+        <p>
+          聯絡人:<br>
+          電話：(02)29393091 轉 62274<br>
+          信箱：dct_ta@cs.nccu.edu.tw<br>
+          地址：11605 台北市文山區指南路二段六十四號<br>
+        </p>
+      </div>
+     </div>
+    <footer>
+
+
